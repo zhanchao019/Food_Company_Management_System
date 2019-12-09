@@ -12,7 +12,7 @@ public class Test implements ActionListener {
 	public static Login frame;
 	public static Main zhu;
 	public static String mysqlname = "root";
-	public static String mysqlpassword = "8088211a";
+	public static String mysqlpassword = "";
 	public static String database = "company";
 
 	public static void main(String[] args) {
